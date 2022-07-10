@@ -1,0 +1,2 @@
+class OrderRecipient < ApplicationRecord
+end
